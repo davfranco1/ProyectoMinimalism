@@ -2,3 +2,6 @@ src/__pycache__
 
 .DS_Store
 client_secret.json
+
+Scrap_carhartt.ipynb
+Scrap_ecoalf.ipynb
